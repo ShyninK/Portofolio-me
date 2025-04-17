@@ -25,7 +25,7 @@
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftravel.detik.com%2Ffototravel%2Fd-5130953%2Ffoto-gemasnya-pose-kucing-yang-jadi-penguin&psig=AOvVaw08EWln50u1DVvI3Isym3SU&ust=1744951851123000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj5qLOi3owDFQAAAAAdAAAAABAE.jpg">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://avatars.githubusercontent.com/u/102195648?v=4">
     </div>
   </main>
 </template>
